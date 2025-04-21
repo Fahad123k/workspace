@@ -39,7 +39,7 @@ const projects = [
     code: "https://demo.samarth.ac.in/index.php/hostel/dashboard/admin",
   },
   {
-    title: "E-commerce app",
+    title: "E-Commerce App",
     description:
       "YellowHills is an e-commerce application that sells organic and hilly products from Uttarakhand, including handmade bamboo items.",
     tech: ["JavaScript", "Wordpress", "PHP", "Mysql"],
