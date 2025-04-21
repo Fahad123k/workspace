@@ -39,24 +39,22 @@ const projects = [
     code: "https://demo.samarth.ac.in/index.php/hostel/dashboard/admin",
   },
   {
-    title: "Social Media Dashboard",
+    title: "E-commerce app",
     description:
-      "Analytics dashboard for social media metrics with data aggregation from multiple platforms.",
-    tech: ["Next.js", "Node.js", "MongoDB", "OAuth"],
-    image:
-      "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
-    demo: "#",
-    code: "#",
+      "YellowHills is an e-commerce application that sells organic and hilly products from Uttarakhand, including handmade bamboo items.",
+    tech: ["JavaScript", "Wordpress", "PHP", "Mysql"],
+    image: "https://i.ibb.co/kVCQpQZV/Screenshot-2025-04-21-at-12-31-03-PM.png",
+    demo: "https://yellowhills.in/",
+    code: "https://yellowhills.in/",
   },
   {
-    title: "Inventory Management System",
+    title: "Weather Forecasting System",
     description:
-      "Enterprise inventory tracking system with barcode scanning and reporting features.",
-    tech: ["React", "Express", "PostgreSQL", "Material UI"],
-    image:
-      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
-    demo: "#",
-    code: "#",
+      "This full-stack, fully responsive weather app fetches city-based data from an API, displays detailed weather info, uses Redux, and features a custom dropdown with professional UI.",
+    tech: ["React", "Firebase", "Tailwind CSS"],
+    image: "https://i.ibb.co/DfcsYbxr/Screenshot-2025-04-21-at-11-49-28-AM.png",
+    demo: "https://what-aweather.vercel.app/",
+    code: "https://github.com/Fahad123k/whatAweather",
   },
 ];
 
