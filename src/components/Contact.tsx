@@ -158,7 +158,7 @@ const Contact = () => {
                 </label>
                 <textarea
                   id="message"
-                  rows="5"
+                  // rows="5"
                   className="w-full px-4 py-3 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-primary focus:border-transparent"
                   placeholder="Hello Nisu, I'd like to discuss..."
                 ></textarea>
