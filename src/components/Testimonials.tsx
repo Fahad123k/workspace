@@ -3,21 +3,21 @@ import { motion } from "framer-motion";
 const testimonials = [
   {
     name: "Sarah Johnson",
-    role: "CEO, TechStart Inc.",
+    role: "",
     content:
       "Nisu delivered our e-commerce platform ahead of schedule and with exceptional quality. His attention to detail and problem-solving skills are outstanding. We've seen a 40% increase in conversions since launch.",
     avatar: "https://randomuser.me/api/portraits/women/44.jpg",
   },
   {
     name: "Michael Chen",
-    role: "CTO, DataVision",
+    role: "",
     content:
       "Working with Nisu on our predictive analytics dashboard was a game-changer for our business. He not only built the system but helped us understand how to leverage the data effectively. Highly recommended!",
     avatar: "https://randomuser.me/api/portraits/men/32.jpg",
   },
   {
     name: "Emily Rodriguez",
-    role: "Product Manager, TaskFlow",
+    role: "",
     content:
       "Nisu's work on our task management application was exceptional. He implemented complex real-time features seamlessly and was always responsive to our evolving needs. Truly a professional.",
     avatar: "https://randomuser.me/api/portraits/women/63.jpg",
